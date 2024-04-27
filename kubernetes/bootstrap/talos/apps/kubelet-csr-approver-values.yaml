@@ -1,0 +1,3 @@
+---
+providerRegex: ^(talostm1|talostm2|talostm3|talostw4|talostw5)$
+bypassDnsResolution: true
